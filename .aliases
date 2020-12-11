@@ -28,7 +28,7 @@ alias diff="git diff"
 alias cl="clear"
 alias gl="cd /home/ahmed/IdeaProjects/gitlab"
 alias ll="ls -la"
-alias bfh="cd ~/Desktop/BFH"
+alias bfh="cd ~/BFH"
 alias apt3="(sudo apt update && sudo apt upgrade -y) | lolcat"
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
