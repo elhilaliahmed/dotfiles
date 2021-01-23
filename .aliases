@@ -29,6 +29,8 @@ alias cl="clear"
 alias gl="cd /home/ahmed/IdeaProjects/gitlab"
 alias ll="ls -la"
 alias bfh="cd ~/BFH"
+alias vr="vscodium -r"
+alias v="vscodium -r"
 alias apt3="(sudo apt update && sudo apt upgrade -y) | lolcat"
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
