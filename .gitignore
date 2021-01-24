@@ -1,3 +1,5 @@
+.ipython/
+.pylint.d/
 .kite/
 .codota-id
 .tooling/
