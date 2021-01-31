@@ -9,11 +9,13 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 shopt -s autocd # allows you to cd into directory merely by typing the directory name
 # Shortcuts
+alias vsc="cd ~/Vscodium"
 alias db="cd ~/Dropbox"
 alias dw="cd ~/Downloads"
 alias d="cd ~/Desktop"
 alias p="cd ~/IdeaProjects"
 alias g="git"
+alias rf="rm -f"
 alias status="git status"
 alias add="git add"
 alias log="git log"
