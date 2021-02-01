@@ -5,6 +5,8 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
+alias m="make"
+alias mc="make clean"
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 shopt -s autocd # allows you to cd into directory merely by typing the directory name
