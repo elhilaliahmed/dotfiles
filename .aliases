@@ -5,6 +5,7 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
+alias mdkir="mkdir"
 alias m="make"
 alias mc="make clean"
 alias ~="cd ~" # `cd` is probably faster to type though

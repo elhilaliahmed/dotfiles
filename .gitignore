@@ -1,3 +1,6 @@
+*.class
+*.idea
+.vscode
 .cargo/
 Vscodium/
 .ipython/
